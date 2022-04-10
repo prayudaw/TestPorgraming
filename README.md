@@ -8,3 +8,4 @@ step untuk menjalakan program ini :
 4.lalu jalan "php artisan migrate" untuk menjalankan database migration.
 5.jalankan juga perintah "php artisan db:seed" untuk jalankan database seed.
 6 jalan perintah "hp artisan storage:link" untuk mengakses images.
+7.Untuk Jawaban Soal logic Php ada di file testLogic.php.
